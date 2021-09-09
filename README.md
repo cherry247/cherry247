@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/shaili-patel-376663190/"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
   <a href="https://sites.google.com/view/analyticszone/projects?authuser=0"><img src="https://img.icons8.com/offices/50/000000/internet.png"/></a>
   <a href="mailto:patelitnu@gmail.com"><img src="https://img.icons8.com/ultraviolet/50/000000/email-open--v1.png"></a>
+  <a href="https://codepen.io/im2cool4skool"><img src="https://img.icons8.com/ios-filled/50/4a90e2/codepen.png"/></a>
  </div>
 
 
