@@ -6,11 +6,11 @@
 </div>
 <div align="center">
 <h3>So, Connect with me </h3>
-  <a href="https://twitter.com/shaili__/"><img src="https://img.icons8.com/office/50/000000/twitter.png"/></a>
-  <a href="https://www.linkedin.com/in/shaili-patel-376663190/"><img src="https://img.icons8.com/offices/50/000000/linkedin.png"/></a>
-  <a href="https://sites.google.com/view/analyticszone/projects?authuser=0"><img src="https://img.icons8.com/offices/50/000000/internet.png"/></a>
-  <a href="mailto:patelitnu@gmail.com"><img src="https://img.icons8.com/ultraviolet/50/000000/email-open--v1.png"></a>
-  <a href="https://codepen.io/im2cool4skool"><img src="https://img.icons8.com/ios-filled/50/4a90e2/codepen.png"/></a>
+  <a href="https://twitter.com/shaili__/"><!--<img src="https://img.icons8.com/office/50/000000/twitter.png"/>--><img src="https://img.icons8.com/ios-glyphs/50/12B886/twitter--v1.png"/></a>
+  <a href="https://www.linkedin.com/in/shaili-patel-376663190/"><!--<img src="https://img.icons8.com/offices/50/000000/linkedin.png"/>--><img src="https://img.icons8.com/color/50/12B886/linkedin-circled--v1.png"/></a>
+  <a href="https://sites.google.com/view/analyticszone/projects?authuser=0"><!--<img src="https://img.icons8.com/offices/50/000000/internet.png"/>--><img src="https://img.icons8.com/ios/50/40C057/domain.png"/></a>
+  <a href="mailto:patelitnu@gmail.com"><!--<img src="https://img.icons8.com/ultraviolet/50/000000/email-open--v1.png">--><img src="https://img.icons8.com/material-rounded/50/FAB005/new-post.png"/></a>
+  <a href="https://codepen.io/im2cool4skool"><!--<img src="https://img.icons8.com/ios-filled/50/4a90e2/codepen.png"/>--><img src="https://img.icons8.com/ios-filled/50/7950F2/codepen.png"/></a>
  </div>
 
 
