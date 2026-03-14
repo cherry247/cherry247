@@ -2,7 +2,7 @@
   <h1>Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height='40' width='40'>, I'm Shaili Patel</h1>
 </div>
 <div align="center">
-  <p> It's a pleasure to meet you. I’m currently exploring new things and working on personal projects. I am passionate about Web Dev and Data Science. I hope you enjoy my repositories, and please feel free to connect with me to share concerns, accolades or anything else on your mind!  </p>
+  <p> It's a pleasure to meet you. I’m a software engineer with 3+ years of experience in backend development, specializing in Java, Spring Boot, Kafka, and Microservices. Experienced in building scalable event-driven systems, optimizing data pipelines, and improving system reliability through monitoring and observability tools, and please feel free to connect with me to share concerns, accolades or anything else on your mind!  </p>
 </div>
 <div align="center">
 <h3>So, Connect with me </h3>
